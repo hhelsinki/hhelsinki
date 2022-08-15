@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hhelsinki
-- 👀 I’m interested in ... Finance Software Development, Digital Forensics
+- 👀 I’m interested in ... Verification Software Development, Digital Forensics
 - 🌱 I’m currently learning ... Fullstack JS
 - 💞️ I’m looking to collaborate on ... Open Source
 - 📫 How to reach me ...
